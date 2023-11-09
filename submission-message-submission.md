@@ -12,9 +12,9 @@ https://jsmarier.github.io/Template-for-the-Website-Project/
 
 ##CSS:
 
-I changed the colour of my body text from gray to black.
-I changed the body background colour from whitesmoke to white.
-I changed the top bar max width from 1000 to 1050.
+1. I changed the colour of my body text from gray to black.
+1. I changed the body background colour from whitesmoke to white.
+1. I changed the top bar max width from 1000 to 1050.
 I changed the logo font size from 30px to 15px.
 I changed the logo colour from #131359 to lightslategray.
 I changed the top menu background colour from #131359 to darkslategray.
